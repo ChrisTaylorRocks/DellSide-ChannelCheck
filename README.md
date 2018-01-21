@@ -21,6 +21,6 @@ Examples
     $Models = "Precision Tower 3420", "OptiPlex 3010"
     $Models | Get-DellSpeculationControlBIOSVersion 
 
-![enter image description here](https://i.imgur.com/Qe3uKyk.png)
+![enter image description here](https://i.imgur.com/w88dRyF.png)
 
 To query a Windows machine for all speculation control settings run the [Speculation Control script](https://www.powershellgallery.com/packages/SpeculationControl).
